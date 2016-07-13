@@ -1,0 +1,51 @@
+@charset "UTF-8";
+body{
+  background-color: black;
+}
+
+.container {
+  height:600px;
+  width: 600px;
+  border: 10px solid black;
+  margin: 10px;
+  margin: 0 auto;
+  background-color: white;
+  text-align: center;
+
+}
+
+.header{
+  height: 115px;
+  width: 600px;
+  text-align: center;
+  background-color: pink;
+  margin-top: 0;
+
+}
+#btn {
+    background-color: black;
+    border: none;
+    color: pink;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.buttons-text {
+  margin-top: 40px;
+}
+
+.buttons {
+  height: 110px;
+  width: 185px;
+  display: inline-block;
+  margin: 0 auto;
+  border: 6px solid white;
+  background-color: #00ffff;
+  font-size: 50px;
+  text-align:center;
+  padding-top: 40px;
+}
